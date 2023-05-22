@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarvisx17
 - 👀 Data Scientist
 - 🌱 I’m currently Working at Data Prophets...
-- 💞️ I’m looking to collaborate on ... Ml
+- 💞️ I’m looking to collaborate on ... Ml | DL | NLP
 - 📫 reach me ... jig.patel8866@gmail.com
 
 <!---
