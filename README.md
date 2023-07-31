@@ -2,10 +2,6 @@
 <!-- https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif -->
 <img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="400" height="400">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jarvisx17)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 ### Hi there, I am Jignesh Patel 👋
 [![Linkedin Badge](https://img.shields.io/badge/-jigneshpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jignesh-patel-63279b190/)](https://www.linkedin.com/in/jignesh-patel-63279b190/)
 [![Gmail Badge](https://img.shields.io/badge/-jignesh.astl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jignesh.astl@gmail.com)](mailto:jignesh.astl@gmail.com) 
