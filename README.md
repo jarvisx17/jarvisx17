@@ -1,6 +1,6 @@
 <!-- img align="right" src="https://media.giphy.com/media/nKWDeysTQBv9u/giphy.gif" alt="Coder GIF" width="420" height="330">
 <!-- https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif -->
-<img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="420" height="420">
+<img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="400" height="400">
 
 
 ### Hi there, I am Jignesh Patel 👋
